@@ -1,0 +1,9 @@
+#pragma once
+
+#include <opencv2\opencv.hpp>
+
+#include "mesh.h"
+
+mesh gen_mesh_circle(const float radius, const unsigned int num_segments);
+
+mesh gen_mesh_brick(const float brick_size);

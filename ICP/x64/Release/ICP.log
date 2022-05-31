@@ -1,0 +1,9 @@
+﻿  ICP.cpp
+D:\Skola\5.rok\ICP\SuperIcpProject_vol2\ICP\ICP.cpp(386,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Skola\5.rok\ICP\SuperIcpProject_vol2\ICP\ICP.cpp(387,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 775 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ICP.vcxproj -> D:\Skola\5.rok\ICP\SuperIcpProject_vol2\x64\Release\ICP.exe
